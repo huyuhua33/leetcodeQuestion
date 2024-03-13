@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Tony/Desktop/WorkSpace/leetcodeQuestion/Q_791_Custom_Sort_String_MEDIUM/Solution",
-      "program": "c:/Users/Tony/Desktop/WorkSpace/leetcodeQuestion/Q_791_Custom_Sort_String_MEDIUM/Solution/build/Debug/outDebug",
+      "cwd": ".",
+      "program": "build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
